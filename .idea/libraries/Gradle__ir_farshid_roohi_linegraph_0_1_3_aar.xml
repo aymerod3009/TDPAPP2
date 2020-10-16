@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: ir.farshid_roohi:linegraph:0.1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d29e879854efc7afc9f48896e4292f8/jetified-linegraph-0.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d29e879854efc7afc9f48896e4292f8/jetified-linegraph-0.1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d29e879854efc7afc9f48896e4292f8/jetified-linegraph-0.1.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ir.farshid_roohi/linegraph/0.1.3/bdaba776b25109e8875fe3d192d9dd4657738d28/linegraph-0.1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ir.farshid_roohi/linegraph/0.1.3/d0647b69c303176faca70de3e28bc0963ec983e/linegraph-0.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
